@@ -288,6 +288,16 @@ Cada laboratorio incluirá:
 - Resultados
 - Lecciones aprendidas
 
+### Example
+
+```text
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+```
+
 ---
 
 ## Projects
@@ -306,7 +316,62 @@ Ejemplos:
 
 ---
 
+## Learning Paths
+
+Cada dominio tecnológico mantendrá sus propias rutas de aprendizaje y certificaciones.
+
+---
+
+## Documentation Standards
+
+Toda la documentación seguirá principios de:
+
+- Claridad técnica.
+- Organización consistente.
+- Evidencia práctica.
+- Reproducibilidad.
+- Referencias oficiales.
+- Mejora continua.
+
+---
 
 
+## Roadmap
+
+### Phase 1 — Linux Administration
+
+- Administración del sistema.
+- Usuarios y grupos.
+- Permisos.
+- Procesos.
+- Servicios.
+
+### Phase 2 — Enterprise Services
+
+- Apache
+- NGINX
+- OpenSSH
+- Samba
+- NFS
+- DNS
+- DHCP
+
+### Phase 3 — Enterprise Linux
+
+- Red Hat Enterprise Linux
+- Rocky Linux
+- AlmaLinux
+- Debian
+- Ubuntu
+
+### Phase 4 — Enterprise Infrastructure
+
+- Automatización.
+- Seguridad.
+- Virtualización.
+- Optimización.
+- Proyectos empresariales.
+
+---
 
 
