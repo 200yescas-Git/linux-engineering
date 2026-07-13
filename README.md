@@ -3,6 +3,6 @@
 </p>
 
 <h1 align="center">GNU/LINUX</h1>
-<p align="center">MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | MariaDB | MongoDB | SQLite | PL/SQL</p>
+<p align="center">S.O | Shell Scripting | Networking | Servers | Automation | Security | Virtualization | Storage</p>
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
