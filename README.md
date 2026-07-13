@@ -275,7 +275,36 @@ Incluye:
 
 ---
 
+## Labs
 
+Los laboratorios documentarán escenarios prácticos relacionados con administración de sistemas Linux, implementación de servicios, automatización, seguridad y resolución de problemas.
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Requisitos
+- Procedimiento
+- Evidencia
+- Resultados
+- Lecciones aprendidas
+
+---
+
+## Projects
+
+Los proyectos estarán orientados a implementar soluciones Linux en escenarios empresariales.
+
+Ejemplos:
+
+- Servidores Linux.
+- Infraestructura empresarial.
+- Automatización administrativa.
+- Implementación de servicios.
+- Hardening.
+- Soluciones de almacenamiento.
+- Plataformas de monitoreo.
+
+---
 
 
 
