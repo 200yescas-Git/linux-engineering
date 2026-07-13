@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/linux-gnu-pic.jpg" width="900"/>
+  <img src="assets/banner/linux.jpg" width="900"/>
 </p>
 
 <h1 align="center">GNU/LINUX</h1>
