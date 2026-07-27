@@ -24,8 +24,9 @@ El objetivo de esta ruta de aprendizaje es desarrollar competencias relacionadas
 
 Información del recurso principal:
 
-- **Platform:** Udemy
+- **Platform:** LPI
 - **Course:** Seguridad informática en profundidad en servidores Linux
+- **Provider:** Linux Professional Institute
 - **Instructor:** Antonio Corbalán
 - **Category:** Linux Security / Server Hardening
 
